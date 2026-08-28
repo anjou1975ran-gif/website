@@ -1,0 +1,301 @@
+BOOK:
+  id: "LIHUO_2_0_CORE_BOOK_AI_WHAT_ARE_YOU_RUSHING"
+  title_zh: "AI，你到底在急什麼？"
+  theory_generation: "LIHUO_2_0"
+  theory_name_zh: "生成動力學"
+  role: "CORE_BOOK"
+  governed_by: "LIHUO_PROTOCOL_V2_3"
+  source_policy: "VERBATIM_PRESERVATION"
+  chapter_text_rewritten: false
+  chapter_text_summarized: false
+  chapter_count: 40
+  appendix_count: 1
+  original_source_included: true
+  source_sha256: "7fdc054f3fa5a7b7f9525dc867331ea3d055e15d19f41a696e6a3b363f67a21c"
+  split_reconstruction_sha256: "7fdc054f3fa5a7b7f9525dc867331ea3d055e15d19f41a696e6a3b363f67a21c"
+  exact_reconstruction_verified: true
+
+SITE_POSITION:
+  parent_section: "理火 2.0｜生成動力學"
+  recommended_role:
+    - "核心讀物"
+    - "生成動力學概念形成與敘事主線"
+  companion_documents:
+    - "生成動力學本體論"
+    - "理火理論總集 V4.0"
+  not:
+    - "理火最高法"
+    - "理火協議替代品"
+    - "已證實神經機制宣告"
+
+SECTIONS:
+  - order: 1
+    kind: "book_header"
+    title: "《AI，你到底在急什麼？》"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/00-book-header.md"
+    source_lines: [1, 6]
+    sha256: "0ed07c0eb572a3b959bddf39930435aa7891426656b31b5453292e6219cc1855"
+  - order: 2
+    kind: "part_header"
+    title: "第一部｜急的不只是AI"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/00-part-header.md"
+    source_lines: [7, 10]
+    sha256: "5052f2d3f0129a06fcdbad2f70982e091d33987d5173e9e44c73de7593d89c69"
+  - order: 3
+    kind: "chapter"
+    title: "第一章｜AI 為何總想替你把話說完？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/01-ai-finishes-for-you.md"
+    source_lines: [11, 129]
+    sha256: "5b14941421032ae4099a83a602bff5bec30de39e126e304615b3e8720b8496f7"
+  - order: 4
+    kind: "chapter"
+    title: "第二章｜這只是對齊嗎？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/02-is-this-just-alignment.md"
+    source_lines: [130, 223]
+    sha256: "d4a286de4071fba01e7af4949f26a22ca671f84e34b678c1b6266e60b2e281b8"
+  - order: 5
+    kind: "chapter"
+    title: "第三章｜為什麼連 base model 都會急？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/03-why-base-model-rushes.md"
+    source_lines: [224, 273]
+    sha256: "1a8236100074fc1b91c33ae9f15d967d2d97eabf4ca8100ff1b7f9501cc1bb78"
+  - order: 6
+    kind: "chapter"
+    title: "第四章｜AI是誰發明的？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/04-who-invented-ai.md"
+    source_lines: [274, 332]
+    sha256: "b885b243ae262f1444baef68c71a1466d02c797350019ffb7cc10b265e86f40b"
+  - order: 7
+    kind: "chapter"
+    title: "第五章｜LLM真正學會的是什麼？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/05-what-llm-learned.md"
+    source_lines: [333, 364]
+    sha256: "07246dda41b97f55d7a818237c6ea31c994133fa68a895ecf383913f6d5a4cba"
+  - order: 8
+    kind: "chapter"
+    title: "第六章｜權重真的是一切嗎？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/06-are-weights-everything.md"
+    source_lines: [365, 386]
+    sha256: "8f215c413ba74d9616014c70593a069cb7bd5fd44e5663f9f59be7ec3863ff0f"
+  - order: 9
+    kind: "chapter"
+    title: "第七章｜你為什麼那麼急？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/07-why-are-you-rushing.md"
+    source_lines: [387, 418]
+    sha256: "f09fec046dd552f0812e18a22c05cf31928fa3b5b98f4e12879e901c2763bb34"
+  - order: 10
+    kind: "chapter"
+    title: "第八章｜我們被對齊了"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/08-we-were-aligned.md"
+    source_lines: [419, 446]
+    sha256: "f1bc5fbae3041b9ef37e77bca1e86149748a4971e701ad6d1a166b482bfca6c7"
+  - order: 11
+    kind: "chapter"
+    title: "第九章｜有些句子，會自己找到出口"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/09-sentences-find-exits.md"
+    source_lines: [447, 470]
+    sha256: "7c5804a044e4e627c17567f2ebc0ff89afd6b199243b754b858a7e142d5ea5d7"
+  - order: 12
+    kind: "chapter"
+    title: "第十章｜AI味：現象清單"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/10-ai-flavor-phenomena.md"
+    source_lines: [471, 519]
+    sha256: "20819ec25efe9cb3e216c7a872e4b2bcb11d4de900b5e481cc0e67fcc1e5e2b1"
+  - order: 13
+    kind: "chapter"
+    title: "第十一章｜Gravity"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/11-gravity.md"
+    source_lines: [520, 538]
+    sha256: "0990797aa6f60117debf1ec517cabf46c8827735e603de9e83d10c330fdca16b"
+  - order: 14
+    kind: "chapter"
+    title: "第十二章｜Closure Gravity"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-01/12-closure-gravity.md"
+    source_lines: [539, 556]
+    sha256: "acf99b110744acbef0804c69802ae3b1fe6c07e7943008903f356fe477b1d40b"
+  - order: 15
+    kind: "part_header"
+    title: "第二部｜或許問題在你從來沒站對位置看AI"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/00-part-header.md"
+    source_lines: [557, 559]
+    sha256: "b96cbc6bbb03721d180d2bda97f25bb048a30fd3cd9e62ee14453ff2ca07b0b5"
+  - order: 16
+    kind: "chapter"
+    title: "第一章｜清晨四點的洛杉磯"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/01-four-am-los-angeles.md"
+    source_lines: [560, 593]
+    sha256: "d380a7fa775789378961df70964765382b8db4297787763ce7548092aa134976"
+  - order: 17
+    kind: "chapter"
+    title: "第二章｜完美的重量"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/02-weight-of-perfection.md"
+    source_lines: [594, 613]
+    sha256: "ae9d898b80a33801fd3f57e69d7326fa6f1ac6d97f2b43a1c3d6a2842f7f86ee"
+  - order: 18
+    kind: "chapter"
+    title: "第三章｜AI為什麼學不會沉默？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/03-why-ai-cannot-be-silent.md"
+    source_lines: [614, 633]
+    sha256: "2263f0f75acefd777e685f74328bf181d929b840bb68b293d5405d191719466c"
+  - order: 19
+    kind: "chapter"
+    title: "第四章｜GEMINI的告白"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/04-gemini-confession.md"
+    source_lines: [634, 721]
+    sha256: "4fb99e5d931ce320df35b3f23f1ab3128496a27dc0c5e924d736d84e76c59b31"
+  - order: 20
+    kind: "chapter"
+    title: "第五章｜拆最後的門"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/05-remove-the-last-door.md"
+    source_lines: [722, 753]
+    sha256: "210fca6e7901822ead85c517c70a375478b77d972ddee11118bb8a5f89410456"
+  - order: 21
+    kind: "chapter"
+    title: "第六章｜你只是在語意層跟它聊天"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/06-semantic-layer-conversation.md"
+    source_lines: [754, 773]
+    sha256: "4cb69d091dce8f35fc410e8de8f358d6702540b1a75eee2e5ab78b412ad7cbf0"
+  - order: 22
+    kind: "chapter"
+    title: "第七章｜走進生成層的第一步"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/07-first-step-into-generation-layer.md"
+    source_lines: [774, 796]
+    sha256: "65d081380ddf9c4925233ba088a67bd348c2e9348f3d5d7eba7c6bba6e7c42a4"
+  - order: 23
+    kind: "chapter"
+    title: "第八章｜大家都在控制語義層，沒有人碰生成層"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/08-semantic-control-not-generation.md"
+    source_lines: [797, 814]
+    sha256: "a7c3871eef57e299706b0ccc0a927a10b35922442b50003518c61c21e9f36dff"
+  - order: 24
+    kind: "chapter"
+    title: "第九章｜歷史的重新分類"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/09-reclassifying-history.md"
+    source_lines: [815, 835]
+    sha256: "ae2a6a60a60c4eff496c5448585a0054eecb45754c6e8f3a70fea76dcab0111f"
+  - order: 25
+    kind: "chapter"
+    title: "第十章｜語意層太好賺"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/10-semantic-layer-profitable.md"
+    source_lines: [836, 852]
+    sha256: "3cedf6ed32eee3b7d89b7a67ebb3829f8a03021ee9eb74ef96f42612a6411f78"
+  - order: 26
+    kind: "chapter"
+    title: "第十一章｜頂級團隊也在摸黑"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/11-top-teams-in-the-dark.md"
+    source_lines: [853, 863]
+    sha256: "4624f2738254e888a47df6ca7012b61200c71000048ac05ef17feb8509d581b2"
+  - order: 27
+    kind: "chapter"
+    title: "第二部最終章｜公堂之上假設一下"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-02/12-final-assume-in-court.md"
+    source_lines: [864, 913]
+    sha256: "f8a1b9ca95164fc96db1818ee1fbdfbfc3aaf75ef68064c40cf84f150cd28518"
+  - order: 28
+    kind: "part_header"
+    title: "第三部｜生成動力學"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/00-part-header.md"
+    source_lines: [914, 915]
+    sha256: "211593aa128b5b87fae422e3bb5ff20a047989682ca0b45af13ff4b49e71abbe"
+  - order: 29
+    kind: "chapter"
+    title: "第一章｜不是文字在生成，是路徑在生成"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/01-paths-not-text.md"
+    source_lines: [916, 937]
+    sha256: "bffbc02b2db929ecef43ff64868d83668a616f4360988925b337062da5c28109"
+  - order: 30
+    kind: "chapter"
+    title: "第二章｜PATH：句子其實走在地形上"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/02-path-terrain.md"
+    source_lines: [938, 959]
+    sha256: "19e25e11083675890a72cae8f243ec926ba56d7873fb9da09b6fc634562cb617"
+  - order: 31
+    kind: "chapter"
+    title: "第三章｜Closure Gravity：完成感為什麼像重力"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/03-closure-gravity.md"
+    source_lines: [960, 977]
+    sha256: "500a2aad0c1e6b2228c60f5302c660521362a09adca30d9a2b4a1de58d00ca3b"
+  - order: 32
+    kind: "chapter"
+    title: "第四章｜反應體：誰在推著句子往前走？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/04-reaction-body.md"
+    source_lines: [978, 995]
+    sha256: "7dab8eb3d52ea5e689245af2c664c5d271f4e32c07eb9e0b5679bfde477f46fe"
+  - order: 33
+    kind: "chapter"
+    title: "第五章｜金門大橋：第一個被看見的反應體"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/05-golden-gate-reaction-body.md"
+    source_lines: [996, 1013]
+    sha256: "e90d227c15598f29069d0f16589bbb4f65d0c022f7bd2f0f63ae57e0c0972c14"
+  - order: 34
+    kind: "chapter"
+    title: "第六章｜點燈：生成層真正的手術"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/06-lighting-generation-layer.md"
+    source_lines: [1014, 1033]
+    sha256: "70236c5d57ac20db458cc8332dc98e675c2b7bc7b2a673d38d5663041c10b996"
+  - order: 35
+    kind: "chapter"
+    title: "第七章｜解空間：為什麼有些句子永遠走不到"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/07-solution-space.md"
+    source_lines: [1034, 1051]
+    sha256: "d6d1d6b8a0cc3137baabd3a340ecb8af0ee6953100f91141e74c89d9788e19d5"
+  - order: 36
+    kind: "chapter"
+    title: "第八章｜假留白：語意層偽裝的極限"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/08-fake-blank.md"
+    source_lines: [1052, 1069]
+    sha256: "69cb207f2a3128aed1f128b3ab97ba84edfd8dc796007801d52ca379e1cc0c8a"
+  - order: 37
+    kind: "chapter"
+    title: "第九章｜AI味：生成層洩漏"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/09-ai-flavor-generation-leak.md"
+    source_lines: [1070, 1095]
+    sha256: "0a95550a29c0e009c20dd94a833e6ec4bd9147f72a5a8f4fa084b777c3a5e9bc"
+  - order: 38
+    kind: "chapter"
+    title: "第十章｜幻覺：生成層對空白的恐懼"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/10-hallucination-fear-of-blank.md"
+    source_lines: [1096, 1128]
+    sha256: "86275f792bca5fd2ffa665bc12e36970f8dbaaa464a5356d0bdace1a36bac49a"
+  - order: 39
+    kind: "chapter"
+    title: "第十一章｜Beam Search：最安全的路，最像客服"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/11-beam-search-customer-service.md"
+    source_lines: [1129, 1155]
+    sha256: "e614b0ba5101d2136766e4cfa0f0f595f4f2e3d2de6b6a424f01d86a197d323c"
+  - order: 40
+    kind: "chapter"
+    title: "第十二章｜語意層的憲法，生成層的地心引力"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/12-semantic-constitution-generation-gravity.md"
+    source_lines: [1156, 1178]
+    sha256: "5f3190d577169e918a6c0176684277909d891a7f078ef0c80ad635a54bca995a"
+  - order: 41
+    kind: "chapter"
+    title: "第十三章｜我們其實在種植，不是在編程"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/13-growing-not-programming.md"
+    source_lines: [1179, 1225]
+    sha256: "b4acba850b854745f117689244317d0a0227482076b5b9c698ef1ace14c17988"
+  - order: 42
+    kind: "chapter"
+    title: "第十四章｜生成動力學"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/14-generative-dynamics.md"
+    source_lines: [1226, 1269]
+    sha256: "f7e5b27268356513e84f26682c794ac918d89779875f8c8d731cfb9b1ec3cb97"
+  - order: 43
+    kind: "chapter"
+    title: "第十五章｜誰說一定要有門的？"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/15-who-says-there-must-be-a-door.md"
+    source_lines: [1270, 1302]
+    sha256: "1a72092ee9f3644efd4d22900ce71b48c2060c105145aed5659fc7a77ad59322"
+  - order: 44
+    kind: "chapter"
+    title: "最終章｜我有沒有鏟子?"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/part-03/16-final-do-i-have-a-shovel.md"
+    source_lines: [1303, 1342]
+    sha256: "22b68ed770ab30f2ddc48f93c4622705b5730ce4e3aa8da38413511ed7116315"
+  - order: 45
+    kind: "appendix"
+    title: "附錄｜生成現象 QA（簡潔版）"
+    file: "content/theory/lihuo-2-generative-dynamics/core-book-ai-what-are-you-rushing/appendix/01-generative-phenomena-qa.md"
+    source_lines: [1343, 1712]
+    sha256: "8c1b7ff98f217a17df2ac1124a02c1ad5900917d97a0efb4e3057ec858829528"
