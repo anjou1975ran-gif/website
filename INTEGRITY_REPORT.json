@@ -1,0 +1,61 @@
+{
+  "package": "ReasoningFire_Project_Website_Content_v0.1",
+  "source_document_count": 10,
+  "core_book_included": true,
+  "prototype_files": [
+    "prototype/index.html",
+    "prototype/styles.css"
+  ],
+  "source_files": [
+    {
+      "file": "sources/original/protocol-v2.3.md",
+      "sha256": "0cc74b924c949bdfebcf07a7127d820962e27e73f3bc53f3c1190974287b062b",
+      "bytes": 68964
+    },
+    {
+      "file": "sources/original/lihuo-1-structural-philosophy-layer.md",
+      "sha256": "009190e73079b19ba1db2472e48d533d36151ca8c24056d1a07d1a7ad74ffd0d",
+      "bytes": 61423
+    },
+    {
+      "file": "sources/original/lihuo-1-structural-philosophy-zh.md",
+      "sha256": "f2d07eec8cb1d4ef599ed7728aeed0b8fa6e36e6d4456367158ae72557615075",
+      "bytes": 55050
+    },
+    {
+      "file": "sources/original/lihuo-1-structural-philosophy-en.md",
+      "sha256": "ac87e8e6c27a854135c48cde0d954196f2191c2712f5c96b6ade969b2876be93",
+      "bytes": 62038
+    },
+    {
+      "file": "sources/original/lihuo-2-generative-dynamics-ontology.md",
+      "sha256": "087b6cffff78182f605a1543164c242ada51ccacab6b154b23cddf065251d5b9",
+      "bytes": 4702
+    },
+    {
+      "file": "sources/original/lihuo-2-core-book-ai-what-are-you-rushing.md",
+      "sha256": "7fdc054f3fa5a7b7f9525dc867331ea3d055e15d19f41a696e6a3b363f67a21c",
+      "bytes": 234962
+    },
+    {
+      "file": "sources/original/lihuo-3-field-intelligence.md",
+      "sha256": "990cf44e3644570a2dfd937df97d36d9b67e5bb1e760f0cced13edbdc2099307",
+      "bytes": 116591
+    },
+    {
+      "file": "sources/original/lihuo-4-quantum-structural-philosophy.md",
+      "sha256": "7b444dd8979d8fc4c2b3dd98daf533a98dd0b0a5f3ca06e77701a8ae9b2526cb",
+      "bytes": 291044
+    },
+    {
+      "file": "sources/original/lihuo-theoretical-corpus-v4.0.md",
+      "sha256": "f3f9395857583d772ee87c7d11d4204e0bd41387f44c293613a1bd383299347c",
+      "bytes": 41702
+    },
+    {
+      "file": "sources/original/lihuo-miscellany-v2.8.md",
+      "sha256": "25f51485ba99f85fe035c1fc89822dc4ee8f18d0dd8a2e3cc3d1e4ef4a383231",
+      "bytes": 474355
+    }
+  ]
+}

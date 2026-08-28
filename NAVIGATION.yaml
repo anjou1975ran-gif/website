@@ -1,0 +1,46 @@
+SITE_NAVIGATION:
+  brand:
+    zh: "理火專案"
+    en: "ReasoningFire Project"
+
+  primary:
+    - label_zh: "首頁"
+      label_en: "Home"
+      route: "/"
+
+    - label_zh: "理火協議"
+      label_en: "Protocol"
+      route: "/protocol"
+
+    - label_zh: "理火 1.0"
+      label_en: "Structural Philosophy"
+      route: "/theory/lihuo-1"
+
+    - label_zh: "理火 2.0"
+      label_en: "Generative Dynamics"
+      route: "/theory/lihuo-2"
+
+    - label_zh: "理火 3.0"
+      label_en: "Field Intelligence"
+      route: "/theory/lihuo-3"
+
+    - label_zh: "理火 4.0"
+      label_en: "Quantum-State LIHUO"
+      route: "/theory/lihuo-4"
+
+    - label_zh: "公式總集"
+      label_en: "Formula Compendium"
+      route: "/formulas"
+
+  secondary:
+    - label_zh: "《AI，你到底在急什麼？》"
+      label_en: "Core Book"
+      route: "/theory/lihuo-2/book"
+
+    - label_zh: "理火散記"
+      label_en: "Miscellany"
+      route: "/miscellany"
+
+    - label_zh: "原典與來源"
+      label_en: "Sources"
+      route: "/sources"
